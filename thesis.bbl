@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{STRO01}
+M.~A. Strocchia, J.~Ram\'irez, y E.~Matos, ``Incidencia de fracturas
+  diafisiarias de f\'{e}mur a\~{n}o 2001: Hospital {D}r. {V}ictorino
+  {S}antaella {R}. {L}os {T}eques,'' \emph{Revista venezolana de cirug\'{i}a
+  ortop\'{e}dica y traumatolog\'{i}a}, vol.~35, pp. 22--26, 2003.
+
+\bibitem{REF_MIC}
+\BIBentryALTinterwordspacing
+Sistema Operativo Windows. [En l\'inea]. Disponible en:
+  \url{http://www.microsoft.com/windows/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{WEB99}
+A.~Webb, \emph{Statistical pattern recognition}.\hskip 1em plus 0.5em minus
+  0.4em\relax Arnold Publishers, 1999.
+
+\bibitem{RAM11}
+E.~Ram\'{i}rez y E.~Coto, ``Moving least squares method for implant model
+  deformation in computer aided orthopedic surgery for fractures of lower
+  extremities,'' en \emph{SIACG 2011: Proceedings of the V Ibero-American
+  Symposium in Computer Graphics}.\hskip 1em plus 0.5em minus 0.4em\relax (Por
+  Presentar), 2011.
+
+\end{thebibliography}
